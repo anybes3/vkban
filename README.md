@@ -4,7 +4,7 @@
   
 Сайт для добычи access token (https://vkhost.github.io/).
   
-Что бы всё работало необходимо установить модули - colorama,time,requests,vk_api,os.
+Что бы всё работало необходимо установить модули - colorama, time, requests, vk_api, os.
   
 Мой telegram - [@Anybes3](https://t.me/Anybes3)
 
