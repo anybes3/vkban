@@ -1,6 +1,6 @@
 <h1>Vkban<h1>
   
-Простая программа которая морозит страницу вк по access token.
+<div>Простой скрипт, который морозит страницу вк по access token.
   
 Сайт для добычи access token (https://vkhost.github.io/).
   
@@ -9,3 +9,15 @@
 Мой telegram - [@Anybes3](https://t.me/Anybes3)
 
 Установка в termux:
+  <ul>
+    <li>pkg update</li>
+    <li>pkg upgrade</li>
+    <li>pkg install python</li>
+    <li>pkg install git</li>
+    <li>pip install colorama</li>
+    <li>pip install time</li>
+    <li>pip install requests</li>
+    <li>pip install vk_api</li>
+    <li>pip install os</li>
+  </ul>
+  </div>
