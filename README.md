@@ -20,6 +20,7 @@
       <li>pip install requests</li>
       <li>pip install vk_api</li>
       <li>pip install os</li>
-      <li>git clone https://github.com/anybes3/vkban/vkban.py</li>
+      <li>git clone https://github.com/anybes3/vkban/</li>
+      <li>python vkban.py</li>
     </ul>
     </div>
