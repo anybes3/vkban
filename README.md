@@ -1,7 +1,7 @@
-<h1>Vkban<h1>
+<h1 align="center">Vkban</h1>
 
   
-  <div style="font-size:70%;">Простой скрипт, который морозит страницу вк по access token.
+  <div align="center">Простой скрипт, который морозит страницу вк по access token.
 
   Сайт для добычи access token (https://vkhost.github.io/).
 
