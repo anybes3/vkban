@@ -1,7 +1,7 @@
 <h1>Vkban<h1>
   <style>
     div {font-size:70%;}  
-  </style
+  </style>
   
   <div>Простой скрипт, который морозит страницу вк по access token.
 
